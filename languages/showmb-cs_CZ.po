@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ShowMB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-27 09:55+0000\n"
+"PO-Revision-Date: 2017-08-13 11:37+0000\n"
+"Last-Translator: exilonm <exilonmlol@gmail.com>\n"
+"Language-Team: Czech\n"
+"Language: cs-CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/widget.php:14
+msgid "My followers"
+msgstr "Moji sledující"
+
+#: includes/widget.php:28
+msgid "Write your ShowMB ID"
+msgstr "Napište vaše ShowMB ID"
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "ShowMB"
+msgstr "ShowMB"
+
+#. Description of the plugin
+msgid "Show automatically the followers you have on each social network."
+msgstr ""
+"Automaticky zobrazuje fanoušky, které máte na jednotlivých sociálních sítích."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "www.showmb.com"
+msgstr "www.showmb.com"
